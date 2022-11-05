@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_startbootstrap_agency=self.webpackChunkgatsby_startbootstrap_agency||[]).push([[890],{822:function(e,t,a){a.r(t);var n=a(7294);t.default=function(){return n.createElement(n.Fragment,null,n.createElement("h1",null,"Termini di utilizzo"),n.createElement("p",null,"Termini di utilizzo text."),n.createElement("a",{href:"/"},"Torna alla home"))}}}]);
+//# sourceMappingURL=component---src-pages-termini-utilizzo-jsx-257438f76136ae4a8003.js.map
